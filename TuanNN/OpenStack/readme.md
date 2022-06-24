@@ -1,6 +1,6 @@
-<h1>Openstack</h1>
+# <h1>Openstack</h1>
 
-# OpenStack
+## Mục lục
 ### [0. Tổng quan về OpenStack]()
 ### [1. Project Keystone]()
 ### [2. Project Glance]()
