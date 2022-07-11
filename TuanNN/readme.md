@@ -7,3 +7,4 @@ Năm Sinh               1999
 Học tại:        Học Viện kỹ thuật Mật Mã
 
 Nghành:         An Toàn Thông Tin
+KMA 
